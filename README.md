@@ -1,1 +1,1 @@
-# paraabola
+# parabola
